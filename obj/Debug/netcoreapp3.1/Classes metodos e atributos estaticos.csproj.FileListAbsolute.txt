@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\bin\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.exe
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\bin\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.deps.json
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\bin\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.runtimeconfig.json
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\bin\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\bin\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.dll
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\bin\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.pdb
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\obj\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\obj\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\obj\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\obj\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\obj\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.dll
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\obj\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.pdb
+C:\Users\yuris\Desktop\Classes metodos e atributos estaticos\obj\Debug\netcoreapp3.1\Classes metodos e atributos estaticos.genruntimeconfig.cache
